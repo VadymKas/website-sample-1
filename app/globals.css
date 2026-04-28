@@ -42,7 +42,7 @@ h2 {
 }
 
 h3 {
-	@apply text-3xl leading-snug;
+	@apply text-3xl font-semibold leading-snug;
 }
 
 h4 {
