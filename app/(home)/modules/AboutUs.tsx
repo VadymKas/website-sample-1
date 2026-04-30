@@ -22,7 +22,7 @@ const AboutUs = () => {
 				<div className="relative">
 					<div className="absolute inset-0 bg-gradient-to-b from-transparent to-black opacity-100" />
 					<video
-						src="/home_video.mp4"
+						src="/AboutUs/home_video.mp4"
 						autoPlay
 						loop
 						muted
