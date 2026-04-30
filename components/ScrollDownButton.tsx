@@ -7,7 +7,7 @@ import Button from './Button'
 const ScrollDownButton = () => {
 	const handleScrollDown = () => {
 		window.scrollBy({
-			top: window.innerHeight - 64,
+			top: window.innerHeight,
 			behavior: 'smooth'
 		})
 	}
