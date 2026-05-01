@@ -11,7 +11,7 @@ const Button: React.FC<Props> = ({ className, children, ...rest }) => {
 	return (
 		<button
 			className={cn(
-				'px-16 py-4 bg-theme text-white text-xl w-full md:w-auto cursor-pointer',
+				'px-16 py-4 bg-theme text-white text-xl rounded-lg w-full md:w-auto cursor-pointer',
 				className
 			)}
 			{...rest}>

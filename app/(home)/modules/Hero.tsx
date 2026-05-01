@@ -42,7 +42,7 @@ const Hero = () => {
 						deserunt necessitatibus doloribus culpa! Quaerat,
 						inventore!
 					</p>
-					<Button className='rounded-lg' />
+					<Button />
 				</div>
 				<ScrollDownButton />
 			</Container>
